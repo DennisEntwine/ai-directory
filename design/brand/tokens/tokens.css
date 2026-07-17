@@ -1,0 +1,72 @@
+/*
+ * Design tokens — working draft (Phase 0)
+ * Single source for the component system. These are directional values, tuned for a
+ * data-dense directory. They finalize alongside the Phase 0.5 mockups once the name lands.
+ *
+ * Family tie to en:twine = red/white only. Everything else is this directory's own.
+ * Consumed later as CSS custom properties and mapped into Tailwind v4 theme tokens.
+ */
+
+:root {
+  /* ---- Base surfaces (white-led) ---- */
+  --color-bg: #ffffff;
+  --color-surface: #fbfbfc;
+  --color-surface-raised: #ffffff;
+
+  /* ---- Neutral ink + structure ramp (cool gray) ---- */
+  --color-ink: #14151a;      /* primary text */
+  --color-ink-muted: #5b606b;/* secondary text, labels */
+  --color-ink-subtle: #8b909b;
+  --color-border: #e6e8ec;   /* table rules, card borders */
+  --color-border-strong: #cfd2d9;
+
+  /* ---- Primary: the directory's own red (bordeaux family, tuned for legibility) ---- */
+  --color-primary: #c02338;      /* brand red, actions, wordmark accent */
+  --color-primary-hover: #a11c2f;
+  --color-primary-contrast: #ffffff;
+  --color-primary-tint: #fdeef0; /* faint red wash for selected/active states */
+
+  /* ---- Integration-effort scale (functional, sits quietly inside tables) ---- */
+  --effort-native: #1f8a5b;   /* native / official */
+  --effort-easy: #4fa06b;
+  --effort-moderate: #c98a12; /* amber */
+  --effort-hard: #c0562a;     /* burnt orange */
+  --effort-none: #8b909b;     /* no integration path */
+
+  /* ---- Trust tiers (from data strategy §13.4: verified vs unverified) ---- */
+  --trust-verified: #1f8a5b;
+  --trust-unverified: #8b909b;
+
+  /* ---- Type scale ---- */
+  --font-display: "TBD-grotesk", system-ui, sans-serif; /* wordmark + headers, set in 0.5 */
+  --font-ui: "Inter", system-ui, -apple-system, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+
+  --text-xs: 0.75rem;
+  --text-sm: 0.875rem;
+  --text-base: 1rem;
+  --text-lg: 1.125rem;
+  --text-xl: 1.375rem;
+  --text-2xl: 1.75rem;
+  --text-3xl: 2.25rem;
+  --text-4xl: 3rem;
+
+  /* ---- Radii ---- */
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-lg: 12px;
+  --radius-pill: 999px;
+
+  /* ---- Spacing base (4px grid) ---- */
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-6: 1.5rem;
+  --space-8: 2rem;
+  --space-12: 3rem;
+
+  /* ---- Elevation (restrained, utility-grade) ---- */
+  --shadow-sm: 0 1px 2px rgba(20, 21, 26, 0.04);
+  --shadow-md: 0 4px 12px rgba(20, 21, 26, 0.06);
+}
