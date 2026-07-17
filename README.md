@@ -1,11 +1,15 @@
-# AI Directory
+# toolfit (working title)
 
-A free, NL-first directory of AI tools, built around one defensible dataset: **which AI tools integrate with which platforms (CRMs, ERPs, marketing, sales, data), by what method, at what effort, and with which models**.
+Working title: **toolfit** · domain **toolfit.ai** · reserved alternative **toolfuse.ai**.
+
+A free directory of AI tools, built around one defensible dataset: **which AI tools integrate with which platforms (CRMs, ERPs, marketing, sales, data), by what method, at what effort, and with which models**.
 
 The directory is a neutral, trustworthy surface. The named expert behind it is **en:twine** ("Works by en:twine"), the AI agency that builds the middleware and intelligence on top of these tools. Lead generation to en:twine is the only monetization; the directory itself stays free.
 
+**Market + languages:** NL market primary, **bilingual NL+EN from day one** (EN as the growth surface, NL targeted via `hreflang` + Search Console). The structured compatibility data is language-agnostic, so EN is mostly translated UI/templated copy over the same verified records.
+
 - **Linear:** ENT-412 (business plan + roadmap, source of truth)
-- **Status:** Phase 0 (scope, schema, and design direction)
+- **Status:** Phase 0 (scope, schema, and design direction). Name is a working assumption, pending an EUIPO/BOIP trademark check before final lock.
 
 ## Repository layout
 

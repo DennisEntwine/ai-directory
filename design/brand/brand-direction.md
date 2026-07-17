@@ -1,10 +1,12 @@
 # Brand direction (Phase 0)
 
-Status: **draft direction.** Name and domain are the open decision that locks this doc. Palette family (red/white) is locked per ENT-412 §9a. Everything below is the proposed direction, ready to finalize once the name lands.
+Status: **working title locked → `toolfit.ai`.** Alternative held in reserve: `toolfuse.ai`. Domain is `.ai` (not `.nl`); the site is **bilingual NL+EN from day one**, NL market primary, EN as the growth surface. Palette family (red/white) is locked per ENT-412 §9a. Treat the name as a working assumption to build against, not yet a trademark-cleared final.
 
 ## 1. Positioning in one line
 
-The neutral, NL-first map of which AI tools actually fit your stack, and how hard they are to connect. Built by the people who do the connecting: en:twine.
+The neutral map of which AI tools actually fit your stack, and how hard they are to connect. Built by the people who do the connecting: en:twine.
+
+The name says the wedge: **toolfit** = does this tool fit your stack, and what will it take to wire it in. Brand and product reinforce each other (the headline lead magnet is the self-serve match-and-scope tool).
 
 ## 2. What the brand has to communicate
 
@@ -13,15 +15,18 @@ The neutral, NL-first map of which AI tools actually fit your stack, and how har
 3. **Dutch by default.** NL-first copy, NL examples, NL platform landscape (Exact, AFAS, Twinfield, Teamleader, Moneybird). Global EN comes later on the same schema.
 4. **Quietly expert.** Neutral by default, light opinion only after the filters and analysis (end of page). The brand voice is calm and precise, not hypey.
 
-## 3. Naming (open decision)
+## 3. Naming (working title: toolfit)
 
-The repo working name is `ai-directory`. The product brand and domain are not yet locked. Directions on the table (see the decision surfaced to Dennis):
+**Working title: `toolfit` → `toolfit.ai`.** Reserved alternative: `toolfuse.ai`. `toolfit.io` is available as a sibling to lock and redirect.
 
-- **Dutch integration word.** "Koppeling" is the Dutch term for a software integration. A name playing on koppel / stack / fit reads native and is on-theme for the moat.
-- **Descriptive SEO domain.** A literal `ai-tools`-style `.nl` domain trades brandability for pSEO strength on head terms.
-- **Coined brandable.** A short, ownable coined word, distinct from en:twine, that can carry the "Works by en:twine" endorsement without confusion.
+Why `toolfit`:
 
-Decision criteria: (a) reads neutral, not like an en:twine sub-brand; (b) works in NL first and survives an EN expansion; (c) domain available; (d) does not fight the pSEO strategy.
+- **On the moat.** The name states the wedge (does this tool fit your stack, and how hard is it to connect), which is exactly the integration-compatibility dataset.
+- **EN-legible, bilingual-safe.** "Fit" reads in both NL and EN, so the name survives the shift to a bilingual, `.ai`-hosted, internationally growable site (revises the earlier NL-first / `.nl` assumption).
+- **Neutral, not an en:twine sub-brand.** Distinct enough to carry "Works by en:twine" as endorsement without visual or verbal inheritance.
+- **Reinforces the product.** Matches the headline lead magnet (self-serve match-and-scope tool with a work-needed estimate).
+
+Decision criteria applied: (a) reads neutral; (b) works in NL and EN together; (c) `.ai` domain available; (d) does not fight the pSEO strategy. Still owed before final lock: EUIPO/BOIP trademark sanity check.
 
 ## 4. Palette (locked family: red + white)
 
